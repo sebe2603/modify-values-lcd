@@ -1,6 +1,7 @@
 # Modifying-Values
 
-This project is designed for the **FRDM-KL05Z microcontroller** and demonstrates how to modify numerical values displayed on a screen using buttons and a touch panel.
+This project is designed for the **FRDM-KL05Z microcontroller** and demonstrates how to modify numerical values displayed on a screen using buttons and a touch panel.  
+🎓 This project was created as part of a university course.
 
 ## 🛠️ Hardware Requirements
 
