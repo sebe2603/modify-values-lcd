@@ -16,7 +16,7 @@ This project is designed for the **FRDM-KL05Z microcontroller** and demonstrates
   - Pressing S2 or S4 moves the cursor between fields.
   - The program uses **interrupt-based button handling** with **debouncing** to minimize false triggers due to contact bounce.
   - Each press moves the cursor by **one position**, regardless of how long the button is held.
-  - ↔The cursor **wraps around** when reaching the end (left or right).
+  - The cursor **wraps around** when reaching the end (left or right).
 
 - **📲 Value Modification via Touch Panel:**
   - The touch panel is divided into **10 equal regions**, representing digits **0 through 9**.
