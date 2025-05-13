@@ -10,6 +10,16 @@ This project is designed for the **FRDM-KL05Z microcontroller** and demonstrates
 - Capacitive touch panel
 - Display compatible with FRDM-KL05Z
 
+## 🗂️ Project Files
+
+modify-values-lcd/  
+├── frdm_bsp.h # Board support package header  
+├── i2c.c / i2c.h # I2C communication handling  
+├── klaw.c / klaw.h # Button (S2/S4) management with debouncing and interrupts  
+├── lcd1602.c / lcd1602.h # LCD 1602 display driver  
+├── main.c # Main program logic  
+└── tsi.c / tsi.h # Touch Sensing Input (TSI) for capacitive panel
+
 ## ✨ Features
 
 - **🎛️ Button Navigation (S2 and S4):**
